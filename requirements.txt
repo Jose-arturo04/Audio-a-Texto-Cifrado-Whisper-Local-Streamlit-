@@ -1,5 +1,0 @@
-streamlit
-pydub
-cryptography
-openai-whisper
-torch
