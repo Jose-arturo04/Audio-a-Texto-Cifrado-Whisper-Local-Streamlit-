@@ -35,7 +35,14 @@ pip install streamlit pydub cryptography openai-whisper torch
 
 ---
 
-## 🔧 Instalación inicial (solo primera vez)
+---
+
+## ▶ Cómo ejecutar el proyecto cada vez (uso diario)
+Cada vez que abras el proyecto nuevamente ejecuta estos comandos:
+
+```bash
 .\.venv\Scripts\activate
 python -m streamlit run app.py
+
+
 
